@@ -44,7 +44,7 @@ int main (){
 		
 		printf("%d\n", q); // nombor q akan dipaparkan kemudian kemaskini q++ berlaku dan akan menambah 1 nilai kepada q setiap kali loop dilaksanakan.
 		                   // output nya adalah 1,2,3,4,5,6,7,8,9.
-		                   //                  (kerana syarat yang diletakkan adalah q < 9;)
+		                   //                  (kerana syarat yang diletakkan adalah q < 10;)
 	}
 	
 	// KENA INGAT! Loop akan berlaku selagi nilai boolean dalam for loop adalah TRUE/1.
